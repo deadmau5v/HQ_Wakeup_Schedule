@@ -1,2 +1,2 @@
-# HQ_Wakeup_Schedule
+# 湖汽 全年级全班级 课程表
 湖南汽车工程职业学院 全年级全班级 Wakeup 课程表
